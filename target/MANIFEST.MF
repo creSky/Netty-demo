@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: jushuan
+Class-Path: lib/netty-all-5.0.0.Alpha2.jar lib/mysql-connector-java-5.1.46.jar
+Created-By: Apache Maven 3.2.5
+Build-Jdk: 1.8.0_91
+Main-Class: com.wisdom.wy.server.DiscardServer
